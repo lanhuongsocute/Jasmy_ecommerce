@@ -1,0 +1,19 @@
+@import "typo.css";
+@import "card.css";
+@import "button.css";
+@import "megaMenu.css";
+@import "homeSlider.css";
+@import "navMenuDesktop.css";
+@import "navMenuMobile.css";
+@import "megaMenuMobile.css";
+@import "responsive.css";
+@import "footer.css";
+@import "common.css";
+@import "onboard.css";
+@import "productDetails.css";
+@import "cartList.css";
+
+body {
+    /* background-color: aquamarine; */
+    background-color: #ffffff;
+}

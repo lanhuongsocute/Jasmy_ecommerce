@@ -1,0 +1,39 @@
+.titleName {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.oldPrice {
+    text-decoration-line: line-through;
+}
+
+.totalName {
+    font-weight: bold;
+    font-size: 16px;
+    color: aqua;
+}
+
+.nameCombo a {
+    text-decoration: none;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.img_cartPackage {
+    padding-left: 50px;
+    border-radius: 5px;
+}
+
+.submit {
+    padding-top: 20px;
+    border-radius: 2px;
+}
+
+.export-btn {
+    margin-top: 20px;
+}
+
+.user-order {
+    background: #fff;
+    padding: 10px;
+}
